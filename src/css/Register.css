@@ -1,0 +1,16 @@
+.btn-pink {
+    background-color: rgb(238,128,126);
+    color: white;
+}
+.btn-pink:hover {
+    background-color: rgb(238,78,73);
+}
+.mb {
+    margin-bottom: 20px;
+}
+.ml {
+    margin-left: 20px;
+}
+.input-fs {
+    font-size: 1.2vw;
+}
