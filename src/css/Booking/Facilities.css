@@ -1,0 +1,12 @@
+.time-slider {
+    display: flex;
+    overflow-x: auto;
+    padding-left: 0 !important;
+    padding-bottom: 10px !important;
+}
+
+.btn-room-pink {
+    background-color: rgb(238, 160, 157);
+    color: white;
+    width: 10vw;
+}

@@ -11,3 +11,8 @@ user = {
     address : string,
     staffType : string
 }
+
+//Booking
+asdf = {
+    kind: string,
+}

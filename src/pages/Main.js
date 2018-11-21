@@ -5,7 +5,6 @@ import MainRoute from '../routes/MainRoute'
 
 class Main extends Component {
     render() {
-        console.log('main',this.props)
         return (
             <div>
                 <Header />

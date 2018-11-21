@@ -1,6 +1,5 @@
 import React, { Component } from 'react'
 import { Navbar, Nav, NavLink } from 'reactstrap'
-import styled from 'styled-components'
 class Footer extends Component {
     render() {
         return (<Navbar style={{

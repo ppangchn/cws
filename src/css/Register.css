@@ -1,9 +1,9 @@
 .btn-pink {
-    background-color: rgb(238,128,126);
+    background-color: rgb(238,160,157);
     color: white;
 }
 .btn-pink:hover {
-    background-color: rgb(238,78,73);
+    background-color: rgb(238,138,136);
 }
 .mb {
     margin-bottom: 20px;
@@ -13,4 +13,31 @@
 }
 .input-fs {
     font-size: 1.2vw;
+}
+.input-placeholder {
+    color : rgb(238,65,59);
+}
+.btn-pinknh {
+    background-color: rgb(238,78,85);
+    color: white;
+}
+.btn:focus {
+    box-shadow: none !important;
+}
+.register-input:invalid {
+    border-color: red;
+}
+.datepicker {
+    color: rgb(238,128,126);
+    font-size: 1rem;
+    font-family: 'Roboto', 'sans-serif','Kanit' !important;
+    padding: .375rem .75rem;
+    border-radius: .25rem;
+    border: 1px solid #ced4da;
+}
+.datepicker-calendar {
+    border-color: rgb(238,160,157) !important;
+}
+.react-datepicker__header {
+    background-color: rgb(238,160,157) !important;
 }

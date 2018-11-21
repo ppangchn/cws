@@ -1,0 +1,28 @@
+.mb {
+    margin-bottom: 20px;
+}
+.ml {
+    margin-left: 20px;
+}
+.btn-pink {
+    background-color: rgb(238,160,157);
+    padding: 50px;
+    color: white;
+    width: 10vw;
+}
+.btn-pinkdisable {
+    background-color: rgb(238,160,157);
+    color: white;width: 10vw;
+
+}
+.btn-pink:hover {
+    background-color: rgb(238,138,136);
+}
+.btn-pinknh {
+    background-color: rgb(238,78,85);
+    color: white;
+    width: 10vw;
+}
+.btn:focus {
+    box-shadow: none !important;
+}
